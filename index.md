@@ -1,6 +1,6 @@
 # Chinmay Patwardhan
 
-Welcome to this website. It's under construction. Please visit later.
+Welcome to this website. It's under construction. Please visit later. This is the latest change to the website.
 
 ## Welcome to GitHub Pages
 
